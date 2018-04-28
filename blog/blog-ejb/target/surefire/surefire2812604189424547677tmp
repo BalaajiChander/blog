@@ -1,0 +1,27 @@
+#surefire
+#Sat Apr 28 22:39:18 IST 2018
+testClassesDirectory=C\:\\Users\\BalaajiChander\\eclipse-workspace\\blog\\blog-ejb\\target\\test-classes
+classPathUrl.4=C\:\\Users\\BalaajiChander\\.m2\\repository\\com\\sun\\mail\\javax.mail\\1.6.0\\javax.mail-1.6.0.jar
+classPathUrl.3=C\:\\Users\\BalaajiChander\\.m2\\repository\\javax\\javaee-api\\8.0\\javaee-api-8.0.jar
+classPathUrl.2=C\:\\Users\\BalaajiChander\\.m2\\repository\\junit\\junit\\3.8.1\\junit-3.8.1.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Users\\BalaajiChander\\eclipse-workspace\\blog\\blog-ejb\\target\\classes
+reportsDirectory=C\:\\Users\\BalaajiChander\\eclipse-workspace\\blog\\blog-ejb\\target\\surefire-reports
+classPathUrl.0=C\:\\Users\\BalaajiChander\\eclipse-workspace\\blog\\blog-ejb\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\BalaajiChander\\eclipse-workspace\\blog\\blog-ejb\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\BalaajiChander\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+surefireClassPathUrl.0=C\:\\Users\\BalaajiChander\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.12.4\\surefire-junit3-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=org.bala.myprincess.blog.ejb.AppTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=C\:\\Users\\BalaajiChander\\eclipse-workspace\\blog\\blog-ejb\\.surefire-C4394AB177A4394DEA36325513B8859FE39B23A5
+includes0=**/Test*.java
+childDelegation=false
+classPathUrl.5=C\:\\Users\\BalaajiChander\\.m2\\repository\\javax\\activation\\activation\\1.1\\activation-1.1.jar
